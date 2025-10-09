@@ -1,0 +1,17 @@
+.rating-symbol-background,
+.rating-symbol-foreground {
+    font-size: 24px
+}
+
+.rating-symbol-foreground {
+    top: 0
+}
+
+.rating-star>span {
+    display: inline-block;
+    vertical-align: middle
+}
+
+.rating-star>span.badge {
+    margin-left: 4px
+}
